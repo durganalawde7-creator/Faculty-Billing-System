@@ -1,0 +1,4 @@
+Flask==2.3.0
+Flask-CORS==4.0.0
+reportlab==4.0.4
+sqlite3-python==1.0.0
